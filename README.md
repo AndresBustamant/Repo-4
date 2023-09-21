@@ -1,6 +1,8 @@
 # Repo-4 
 Notebook con las soluciones:
 https://colab.research.google.com/drive/10Aze5SarbjRhR0vQyFlxIYTgp332N-m6?usp=sharing
+
+
 1.para el primer ejercicio tome como punto de partida el codigo ASCII donde a cada caracter se le asigna un valor de indetificacion numerico, teniendo esto en cuenta tome como referencia los valores correspondientes a la vocales minusculas (97,101,105,111,117) para plantear un programa, el cual al incertar un valor mostrara de manera especifica si dicho valor corresponde a un vocal minuscula y a cual.(de otra manera mostrara que no es una vocal minuscula) (el programa corresponde a el primer ejercicio del notebook)
 
 ```pseudocode
